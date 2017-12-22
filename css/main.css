@@ -15,7 +15,7 @@ div {
 .btn {
   display: inline-block;
   text-decoration: none;
-  padding: 0.4em 0.75em;
+  padding: .4em .75em;
   border: 3px solid #333;
   border-radius: 9px;
   background-color: #333;
@@ -29,13 +29,13 @@ div {
 }
 
 .btn-small {
-  font-size: 0.875rem;
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
+  font-size: .875rem;
+  padding-top: .3em;
+  padding-bottom: .3em;
 }
 
 .btn-big {
-  font-size:1.5rem;
+  font-size: 1.5rem;
 }
 
 .btn-subtle {
